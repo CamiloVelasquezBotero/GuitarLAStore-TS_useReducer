@@ -6,6 +6,7 @@ Tienda online de compra de variedad de Guitarras, la cual maneja los datos usand
   - TypeScript
   - Html
   - Hecho con Vite
+  - TailwindCss
   - Se mejora el performance renderizando componentes especificos
   - Usamos Reducer para manejar la logica de los datos, optimizando y mejorando la escalacion del proyecto con el manejo de datos
   - Usamos LocalHost para mantener y recuperar los datos con el uso de la app.
